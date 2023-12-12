@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: '[BUG]'
+title: ""
 labels: bug
-assignees: ''
+assignees: ""
 ---
 
 **Describe the bug**
@@ -20,8 +20,7 @@ If applicable, add screenshots to help explain your problem.
 
 **Information (please complete the following information):**
 
-- Node version [e.g. 18.15.0]
-- Pnpm version [e.g. 8.6.6]
+- Bun version [e.g. 1.0.8]
 
 **Additional context**
 Add any other context about the problem here.
